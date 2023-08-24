@@ -1,0 +1,26 @@
+a {
+	text-decoration: none;
+}
+
+ul {
+	background-color:rgb(209, 181, 105);
+
+	list-style-type: none; 
+	padding: 20px
+}
+
+li{
+	display: inline;
+	font-size: 30px
+
+}
+
+
+p {
+
+}
+
+
+h1{
+	color: red;
+}

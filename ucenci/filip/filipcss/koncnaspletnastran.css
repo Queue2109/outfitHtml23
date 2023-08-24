@@ -1,0 +1,73 @@
+a{
+	text-decoration: none;
+}
+
+ul {
+	background-color: rgb(175, 192, 222);
+	padding-bottom: 60px;
+}
+	
+	
+ 
+
+li {
+	display: inline;
+	font-size: 40px;
+	float: left;
+	padding-left: 20px;
+	padding-right: 20px; 
+}
+
+p {
+	font-size: 40px;
+	font-family: 'Edu SA Beginner', cursive;
+font-family: 'REM', sans-serif;
+}
+
+
+img{
+	width: 500px;
+}
+
+#nogomet {
+	color: red;
+	font-size: 70px;	
+}
+
+
+body {
+	background-color: rgb(197, 216, 217);
+}
+
+#pravilo {
+	background-image: url("https://en.reformsports.com/oxegrebi/2022/04/artificial-grass-on-football-pitch.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#napadalec {
+	color: beige ;
+	font-size:  40px;
+}
+
+
+
+#pokal {
+	font-size: 50px;
+
+}
+
+#lovorika{
+	background-color: rgb(189, 142, 140);
+}
+
+#svetovno{
+	color: red;
+	font-size: 50px;
+}
+
+
+#t {
+	font-size: 50px;
+	color: red;
+}
+
