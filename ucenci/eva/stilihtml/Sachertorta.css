@@ -1,0 +1,35 @@
+ #navbar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	padding-left: 25%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color:#73471a;
+}
+ #navbar li {
+	display:inline;
+	padding: 20px 20px 20px 20px;
+	font-size: 20px;
+}
+
+#navbar li:hover {
+	background-color:#945f29;
+}
+
+ #navbar a {
+	color: black;
+	text-decoration: none;
+}
+
+body {
+	background-color: beige;
+}
+
+.icon {
+	color:orange;
+}
+
+h1 {
+	font-size: 50px;
+}
