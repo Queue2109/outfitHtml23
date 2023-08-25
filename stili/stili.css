@@ -1,6 +1,7 @@
 body {
     background: url('./slike/digitalSchoolLogo.png') no-repeat center center fixed;
     background-size: 20%;
+    background-color: #b5c3e8;
 }
 
 h1,h2 {
@@ -19,7 +20,6 @@ ul {
     list-style: none;
 }
 
-
 li {
     margin: 0;
     font-size: 1.3em;
@@ -31,10 +31,10 @@ li {
     background-position: left center;
 
 }
+
 a:hover {
     background-size: 0 3px, 100% 3px;
 }
-
 
 a {
     text-decoration: none;
