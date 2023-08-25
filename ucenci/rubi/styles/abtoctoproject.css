@@ -1,0 +1,22 @@
+body {
+	background-color: #b5001e;
+}
+
+#facts {
+	font-family: cursive;
+	list-style-type: disc;
+
+	background-color: #b5001e;
+	margin: 0 !important;
+	padding: 0;
+}
+
+#facts li {
+	display: list-item;
+	margin: 50px;
+
+}
+
+#facts li:hover {
+	background-color: #b5001e;
+}

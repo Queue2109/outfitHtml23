@@ -1,0 +1,49 @@
+body {
+	background-color: #519872;
+	font-family: cursive;
+	width: 100%;
+}
+
+div {
+	border: 1px solid;
+	width: 25%;
+	font-family: cursive;
+	margin-left: 200px;
+	margin-top: 50px;
+	padding: 20px;
+}
+
+.firstFont {
+	font-family: cursive;
+	font-weight: 500;
+}
+
+.secondFont {
+	font-family: cursive;
+}
+
+#megaMind {
+	width: 25%;
+	position: absolute;
+	top: -20px;
+	right: -20px;
+	margin-top: 180px;
+	margin-right: 350px;
+	border: 1px solid;
+	border-radius: 5px;
+}
+
+#color2 {
+	background-color: #0f3b21;
+	margin-left: 0;
+	width: 97%;
+}
+
+#white {
+	color: white;
+}
+
+#square {
+	border: 1px solid white;
+	width: 50%;
+}
