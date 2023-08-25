@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Cookie&display=swap');
+
+#navbar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	padding-left: 30%;
+	padding-top:20px;
+	padding-bottom: 20px;
+	background-color: hsl(207, 50%, 65%);
+}
+
+ #navbar li {
+	display: inline;
+	padding: 20px 20px 20px 20px;
+}
+
+#navbar li:hover{
+	background-color: #e6e6ff;
+}
+
+body {
+	margin:0px;
+	font-family: 'Amatic SC', cursive;
+	font-size:25px ;
+	background-color: lightgrey;
+
+}
+#navbar a{
+	color: black;
+	text-decoration: none;
+}
+
+div { 
+	margin-right: 500px;
+	margin-left: 50px;
+}
+
+#volk {
+position: absolute;
+top:50px ;
+right: -10px;
+margin: 50px;
+}
+
+#live {
+     margin-right: 600px;
+     margin-left:50px ;	
+}
+
+#living {
+position: absolute;
+top:50px ;
+right: -10px;
+margin: 50px;	
+}
+
+#int {
+position: absolute;
+top:50px ;
+right: -10px;
+margin: 50px;		
+}
+
+#sneg {
+position: absolute;
+top:500px ;
+right: -10px;
+margin: 50px;		
+}
